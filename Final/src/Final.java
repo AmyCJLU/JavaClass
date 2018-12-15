@@ -6,7 +6,7 @@
 //				that the work hour cannot be negative, instead of setting a maximum hour. However, the experience level can only be from 1 to 5.
 
 import java.util.Scanner;
-
+aaa
 public class Final {
 
     private static int [] level = {1, 2, 3, 4, 5};
