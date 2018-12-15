@@ -31,17 +31,17 @@ public class Final {
             }
         }
 
-        //input regular work hours
-        while (true) {
-            System.out.println("Please enter your regular work hours> ");
-            workHours = input.nextInt();
-            if (workHours < 0) {
-                System.out.println("The regular work hours you entered is invalid. Please try again.\n");
-            }
-            else {
-                break;
-            }
-        }
+//        //input regular work hours
+//        while (true) {
+//            System.out.println("Please enter your regular work hours> ");
+//            workHours = input.nextInt();
+//            if (workHours < 0) {
+//                System.out.println("The regular work hours you entered is invalid. Please try again.\n");
+//            }
+//            else {
+//                break;
+//            }
+//        }
 
         //input overtime work hours
         while (true) {
